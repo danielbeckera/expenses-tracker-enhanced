@@ -18,3 +18,7 @@ $ npm i
 $ npm start
 ```
 Visit http://localhost:3000/ to see the app 👩‍💻
+
+## Screenshots 🎥
+![Alt text](/.github/app1.png?raw=true "Dashboard")
+![Alt text](/.github/app2.png?raw=true "Modal")
